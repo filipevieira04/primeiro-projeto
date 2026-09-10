@@ -7,6 +7,7 @@ REGRAS DO JOGO:
 Cada Personagem vai ter: energia , ataque , vida , especial , nome , defesa ;
 
 Vão ser 5 personagens: Cavaleiro , Mago , Arqueiro , Ogro , Dragão;
+
                            2         3        1        4       6
                            
 Vão ser 2 Jogadores: Cada um começará com 10 fichas, que serão usadas para comprar os personagens acima ;
