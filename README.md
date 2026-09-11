@@ -2,6 +2,32 @@ Este repositório contém um jogo de batalha medieval por turnos feito para dois
 
 Este jogo feito na linguagem python
 
+## Como rodar o projeto
+
+1. Instale o [Python](https://www.python.org/downloads/) 3.8 ou superior.
+2. Abra o terminal na pasta do projeto.
+3. Instale a dependência do jogo:
+
+```bash
+python -m pip install tabulate
+```
+
+4. Execute o jogo:
+
+No Windows:
+
+```bash
+python "jogo de batalha.py"
+```
+
+No Linux ou macOS, se necessário, use `python3`:
+
+```bash
+python3 "jogo de batalha.py"
+```
+
+O jogo é interativo e deve ser jogado por dois jogadores no mesmo terminal.
+
 * REGRAS DO JOGO:
 
 Cada Personagem vai ter: energia , ataque , vida , especial , nome , defesa ;
